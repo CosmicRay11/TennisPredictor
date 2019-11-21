@@ -1,5 +1,7 @@
 # TennisPredictor
-Set of programs to process historical tennis data in order to make predictions on future matches 
+Set of programs to process historical tennis data in order to make predictions on future matches.
+
+Works using open source data compiled by Jeff Sackman (see https://github.com/JeffSackmann/tennis_atp)
 
 log_reg_it9.py - the logistic regression model that maps the input parameters to an output probability of winning the match
 
